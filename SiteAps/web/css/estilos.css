@@ -1,0 +1,113 @@
+*{
+    
+    box-sizing: border-box !important;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background-image: url("fundo-onu.png");
+    background-color: #dbdbdb;
+}
+
+.fundo{
+    opacity : 0.5;
+}
+
+.bg-total{
+    background-image: url("onu.png");
+    opacity: 0.9;
+}
+
+.img{
+    
+    width: 200px !important;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+.bg-navebar{
+    background-color: #5b92e4;
+    color: hotpink;
+}
+
+.bg-form{
+    background-color: #FFF;
+    border-radius: 10px;
+    border-color: #000;
+    border-width: 300px;
+}
+
+.bordas{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.bg-central{
+    background-image: url("onu.png");
+    background-color: #5b92e4;
+    color: rgb(0, 0, 0);
+    opacity: 0.9;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-cards{
+    background-color: #b4cae4 !important;
+}
+
+.texto-esquerda{
+    text-align: left;
+}
+
+
+
+.btn-cor-fonte:hover{
+    color: #5b92e4 !important;
+}
+
+
+
+.bg-img{
+    background-color: #b4cae4 !important;
+}
+
+.button {
+    background:    #3d85c6;
+    border:        5px solid #eeeeee;
+    border-radius: 11px;
+    padding:       20px 45px;
+    color:         #ffffff;
+    display:       inline-block;
+    font:          italic normal 15px/1 "Open Sans", sans-serif;
+    text-align:    center;
+    margin: 1000 !important; 
+    padding: 1000 !important;
+    border: 1000 !important;
+    
+}
+
+.nav{
+    margin: 0 !important; 
+    padding: 0 !important;
+    border: 0 !important;
+    box-sizing: border-box !important;
+}
+
+footer{
+    margin: 0 !important; 
+    padding: 0 !important;
+    border: 0 !important;
+    box-sizing: border-box !important;
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+
+
